@@ -34,3 +34,5 @@ Creating schemas and models
 Performing CRUD operations
 Using MongoDB query operators
 Handling database operations with async/await
+
+Implemented Schema Validations and erros hadlinngs
